@@ -1,0 +1,10 @@
+Decode.py
+Encode.py
+README.md
+Transformer.py
+setup.py
+transformer.egg-info/PKG-INFO
+transformer.egg-info/SOURCES.txt
+transformer.egg-info/dependency_links.txt
+transformer.egg-info/requires.txt
+transformer.egg-info/top_level.txt

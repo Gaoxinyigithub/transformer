@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: transformer
+Version: 1.0
+Requires-Dist: torch==1.8.0
+Requires-Dist: tqdm
+Requires-Dist: torchtext==0.9.0
+Requires-Dist: spacy==3.1.3
+Requires-Dist: Pydantic==1.7.4
+Requires-Dist: pandas
